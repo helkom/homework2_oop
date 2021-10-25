@@ -1,5 +1,4 @@
 # class Figure
-
 class Figure:
     def __init__(self, name, angles):
         if self.__class__ == Figure:
